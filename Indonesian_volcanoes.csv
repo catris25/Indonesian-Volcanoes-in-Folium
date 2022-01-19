@@ -1,0 +1,128 @@
+Type,Volcano,Latitude,Longitude,Region
+A,Seulawah Agam,5.447027994,95.65666358,Sumatera
+A,Peut Sague,4.902609074,96.28886262,Sumatera
+A,Burni Telong,4.766994746,96.82422669,Sumatera
+A,Sinabung,3.169904788,98.39104079,Sumatera
+A,Sorik Marapi,0.6857808372,99.53632632,Sumatera
+A,Marapi,-0.3910693843,100.4570978,Sumatera
+A,Tandikat,-0.4314900232,100.3193004,Sumatera
+A,Talang,-0.980094317,100.6804559,Sumatera
+A,Kerinci,-1.696001331,101.267191,Sumatera
+A,Dempo,-4.015894231,103.1214734,Sumatera
+A,Kaba,-3.515538289,102.6265569,Sumatera
+A,Anak Krakatau,-6.102814112,105.4227935,Sumatera
+A,Sumbing,-7.38332572,110.0736235,Jawa
+A,Salak,-6.718083923,106.7133289,Jawa
+A,Gede,-6.787805208,106.9822764,Jawa
+A,Tangkuban Parahu,-6.759896118,107.6152292,Jawa
+A,Guntur,-7.155590265,107.8512825,Jawa
+A,Papandayan,-7.316928827,107.7316372,Jawa
+A,Galunggung,-7.257617498,108.0774905,Jawa
+A,Ciremai,-6.895490405,108.4077264,Jawa
+A,Slamet,-7.241794426,109.2149242,Jawa
+A,Dieng,-7.218344903,109.9065725,Jawa
+A,Sundoro,-7.301527462,109.9969899,Jawa
+A,Merapi,-7.541306693,110.4462709,Jawa
+A,Kelud,-7.937587708,112.3041603,Jawa
+A,Arjuno Welirang,-7.733569069,112.5747094,Jawa
+A,Bromo,-7.942861078,112.9529657,Jawa
+A,Semeru,-8.112845362,112.9247627,Jawa
+A,Lamongan,-7.981687298,113.3404621,Jawa
+A,Raung,-8.120162504,114.0560329,Jawa
+A,Ijen,-8.058562053,114.2425739,Jawa
+A,Batur,-8.240401401,115.3779051,Bali - Nusa Tenggara
+A,Agung,-8.343979117,115.5074817,Bali - Nusa Tenggara
+A,Rinjani/Barujari,-8.411110523,116.4231587,Bali - Nusa Tenggara
+A,Tambora,-8.246972746,117.9932045,Bali - Nusa Tenggara
+A,Sangeangapi,-8.197824981,119.0693541,Bali - Nusa Tenggara
+A,Inielika,-8.74059062,120.976483,Bali - Nusa Tenggara
+A,Inierie,-8.878225846,120.9560381,Bali - Nusa Tenggara
+A,Ebulobo,-8.816140078,121.1913248,Bali - Nusa Tenggara
+A,Kelimutu,-8.765969827,121.8148982,Bali - Nusa Tenggara
+A,Iya,-8.894767723,121.6387191,Bali - Nusa Tenggara
+A,Rokatenda,-8.333086352,121.7067653,Bali - Nusa Tenggara
+A,Egon,-8.6783677,122.4539051,Bali - Nusa Tenggara
+A,Lewotobi Laki-laki,-8.538096425,122.767356,Bali - Nusa Tenggara
+A,Lewotobi Perempuan,-8.551993699,122.7801716,Bali - Nusa Tenggara
+A,Lereboleng,-8.368342132,122.8357748,Bali - Nusa Tenggara
+A,Ili boleng,-8.343403645,123.2523701,Bali - Nusa Tenggara
+A,Ili Lewotolok,-8.273658589,123.5083982,Bali - Nusa Tenggara
+A,Ili Werung,-8.531772125,123.5735912,Bali - Nusa Tenggara
+A,Batutara,-7.78981002,123.5874918,Bali - Nusa Tenggara
+A,Sirung,-8.498083986,124.1310892,Bali - Nusa Tenggara
+A,Hobal (BL),-8.554417714,123.6393482,Bali - Nusa Tenggara
+A,Anak Ranakah,-8.633779123,120.533081,Bali - Nusa Tenggara
+A,Wetar,-6.636496433,126.6589508,Maluku
+A,Nieuwerkerk (BL),-6.433416594,125.2424214,Maluku
+A,Wurlali,-7.121143759,128.6838694,Maluku
+A,Teon,-6.962425692,129.1436887,Maluku
+A,Nila,-6.750945934,129.5167356,Maluku
+A,Serua,-6.312678607,130.0165886,Maluku
+A,Banda api,-4.523056139,129.8796485,Maluku
+A,Dukono,1.698673271,127.8780167,Maluku
+A,Ibu,1.492408538,127.6336703,Maluku
+A,Gamkonora,1.377222741,127.5325285,Maluku
+A,Gamalama,0.8096895391,127.332358,Maluku
+A,Kie Besi,0.3228240839,127.398041,Maluku
+A,Colo,-0.1704557851,121.6024919,Sulawesi
+A,Ambang,0.7489608692,124.4220153,Sulawesi
+A,Soputan,1.11450903,124.73779,Sulawesi
+A,Lokon,1.363851491,124.7992179,Sulawesi
+A,Mahawu,1.352763581,124.8626591,Sulawesi
+A,Tangkoko,1.514796316,125.1853563,Sulawesi
+A,Ruang,2.30390855,125.367031,Sulawesi
+A,Karangetang,2.777022186,125.4060951,Sulawesi
+A,Awu,3.681553458,125.454054,Sulawesi
+A,Banua Wuhu (BL),3.049348592,125.6706912,Sulawesi
+A,Sangir (BL),3.618099004,124.5998176,Sulawesi
+B,Burni Geureudong,4.79325407,96.82046025,Sumatera
+B,Sibayak,3.239658265,98.50450673,Sumatera
+B,Pusuk Bukit,2.614332962,98.66811207,Sumatera
+B,Talamau,0.07393294702,99.98020206,Sumatera
+B,Sibual-buali,1.554115588,99.2559152,Sumatera
+B,Sumbing,-2.411531282,101.7253218,Sumatera
+B,Kunyit,-2.278645217,101.4826074,Sumatera
+B,Belirang Beriti,-2.826828627,102.1644616,Sumatera
+B,Bukit Daun,-3.38335492,102.3728869,Sumatera
+B,Lumut Balai,-4.223597657,103.6231924,Sumatera
+B,Sekincau Belirang,-5.099013337,104.3450091,Sumatera
+B,Rajabasa,-5.780916762,105.6315893,Sumatera
+B,Pulosari,-6.33953778,105.9750272,Jawa
+B,Karang,-6.268606232,106.0497187,Jawa
+B,Patuha,-7.16637657,107.4021262,Jawa
+B,Wayang Windu,-7.206973055,107.6377119,Jawa
+B,Talaga Bodas,-7.210962849,108.0652008,Jawa
+B,Ungaran,-7.202709431,110.3393574,Jawa
+B,Merbabu,-7.447476244,110.4386812,Jawa
+B,Lawu,-7.637606941,111.1902459,Jawa
+B,Wilis,-7.790262659,111.6325957,Jawa
+B,Iyang Argopuro,-7.964977957,113.5730332,Jawa
+B,Ilimuda,-8.476914857,122.7614361,Bali - Nusa Tenggara
+B,Ili labalekan,-8.541949376,123.3818055,Bali - Nusa Tenggara
+B,Yersey (BL),-7.651986444,123.669043,Maluku
+B,Emperor of China (BL),-6.804395241,124.5404903,Maluku
+B,Manuk,-5.54294653,130.3038775,Maluku
+B,Todoko,1.262777296,127.4822551,Maluku
+B,Sempu,1.135419788,124.7514596,Sulawesi
+B,Klabat,1.453408748,125.0301038,Sulawesi
+C,Jaboi,5.803434596,95.32402286,Sumatera
+C,Gayo Lesten/Kembar,3.857109997,97.66369043,Sumatera
+C,Helatoba,2.074526068,98.94517421,Sumatera
+C,Marga Bayur/Besar,-4.432690072,103.6856043,Sumatera
+C,Pematang Bata/Suwoh,-5.230591853,104.2616571,Sumatera
+C,Ulubelu,-5.335496236,104.5905884,Sumatera
+C,Kiaraberes Gagak,-6.730199667,106.6495391,Jawa
+C,Perbakti,-6.757176832,106.6865177,Jawa
+C,Kawah Kamojang,-7.137979853,107.8007273,Jawa
+C,Kawah Manuk,-7.227575343,107.7315307,Jawa
+C,Kawah Karaha,-7.124445709,108.076667,Jawa
+C,Waesano,-8.710685171,119.9887172,Bali - Nusa Tenggara
+C,Poco Leok,-8.7237,120.439562,Bali - Nusa Tenggara
+C,Kaldera Sokoria,-8.783466506,121.764812,Bali - Nusa Tenggara
+C,Ndetu Napi,-8.711673409,121.8080373,Bali - Nusa Tenggara
+C,Riang Kotang,-8.284211904,122.9114926,Bali - Nusa Tenggara
+C,Batu kolok,1.161703006,124.7640011,Sulawesi
+C,Tempang,1.17154662,124.8435946,Sulawesi
+C,Tampusu,1.265878591,124.8521638,Sulawesi
+C,Lahendong,1.275055504,124.8292481,Sulawesi
+C,Sarongsong,1.283967696,124.821566,Sulawesi
